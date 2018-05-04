@@ -1,14 +1,7 @@
 ---
-name: 'Cross Sell Configuration '
-about: 'Open for configuring ARR in '
+name: 'Requesting Review of SDR SAL and Rep New Logo Credit '
+about: 'Approval and Compensation '
 
 ---
 
-### SFDC link
-
-		
-
-**Add this here**
-- Example 1 
-- Example 2 
-- Example 3
+sdfsd
