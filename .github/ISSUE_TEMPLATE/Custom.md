@@ -1,6 +1,6 @@
 ---
-name: Partner Leads - SFDC Upload
-about: Lead uploads for GitHub Partners
+name: Sales Team Off-Boarding Checklist
+about: 'When sales member leave GitHub '
 
 ---
 
