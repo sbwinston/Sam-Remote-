@@ -1,7 +1,7 @@
 ---
-name: 'Requesting Review of SDR SAL and Rep New Logo Credit '
-about: 'Approval and Compensation '
+name: Custom issue template
+about: Describe this issue template's purpose here.
 
 ---
 
-sdfsd
+
