@@ -1,5 +1,5 @@
 ---
-name: Requesting Review of SDR SAL and Rep New Logo Credit
+name: Requesting SDR Review of Credit 
 about: Comp approval
 
 ---
