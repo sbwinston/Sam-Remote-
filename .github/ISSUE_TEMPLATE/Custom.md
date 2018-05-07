@@ -1,6 +1,6 @@
 ---
-name: Sales Team Off-Boarding Checklist
-about: 'When sales member leave GitHub '
+name: Requesting Review of SDR SAL and Rep New Logo Credit
+about: Comp approval
 
 ---
 
